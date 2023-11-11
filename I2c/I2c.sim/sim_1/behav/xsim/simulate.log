@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Temprature Sensor read data=x
+$finish called at time : 204 ns : File "C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/I2C Protocol/I2c/I2c.srcs/sim_1/new/tb.sv" Line 72

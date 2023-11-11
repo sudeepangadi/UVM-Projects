@@ -1,0 +1,8 @@
+{C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/Async FIFO/async_fifo.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/Async FIFO/async_fifo.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module async_fifo
+
+Top level modules:
+	async_fifo
+
+} {} {}}

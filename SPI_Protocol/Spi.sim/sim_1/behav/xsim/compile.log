@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/SPI/spi_master.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_master
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/SPI/spi_slave.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_slave
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/SPI/tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_master
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'spi_master' [C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/SPI/spi_master.sv:1]
+INFO: [VRFC 10-311] analyzing module spi_slave
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'spi_slave' [C:/Users/LENOVO-3/Desktop/PROJECTS_RESUME/SPI/spi_slave.sv:1]
+INFO: [VRFC 10-311] analyzing module tb
